@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- 📧 **Email**: support@dropletbridge.dev
+- 📧 **Email**: qgee123@gmail.com
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/droplet-bridge/discussions)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/droplet-bridge/issues)
 - 🌟 **Star us** if you find this project useful!
